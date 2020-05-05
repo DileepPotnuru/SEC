@@ -2,7 +2,7 @@
    "status":"1",
    "message":"success",
    "type":"user",
-   "list":[
+   "employeeIds":[
    "090332",
    "090333"
    ]
