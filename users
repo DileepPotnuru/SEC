@@ -1,9 +1,9 @@
 {
-   'status': '1',
-   'message': 'success',
-   'type':'user',
-   'list': [
-   '090332',
-   '090333'
+   "status":"1",
+   "message":"success",
+   "type":"user",
+   "list":[
+   "090332",
+   "090333"
    ]
 }
