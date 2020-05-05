@@ -8,12 +8,13 @@
      "mobilePhone":"9876543210",
      "fax":"6543211",
      "manager": "090332",
-     "teams":[{
+     "teams":[
+     	{
 	"departmentCode":"DEPT026",
-	"departmentNameEN":"S",
-	"departmentNameTH":""
+	"departmentNameEN":"FinTech Department",
+	"departmentNameTH":"FinTech Department"
 	}
-	]
+      ]
 },
 {
     "employeeId": "090333",
@@ -24,11 +25,12 @@
      "mobilePhone":"9867543210",
      "fax":"6543211",
      "manager": "090332",
-     "teams":[{
+     "teams":[
+     	{
 	"departmentCode":"DEPT026",
-	"departmentNameEN":"",
-	"departmentNameTH":""
+	"departmentNameEN":"FinTech Department",
+	"departmentNameTH":"FinTech Department"
 	}
-	]
+     ]
 }
 ]
