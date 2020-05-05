@@ -1,36 +1,9 @@
-[
 {
-    "employeeId": "090332",
-    "fullName": "John Smith",
-    "firstNameEn": "John",
-    "lastNameEn":"Smith",
-     "email":"johnsmith@gmail.com",
-     "mobilePhone":"9876543210",
-     "fax":"6543211",
-     "manager": "090332",
-     "teams":[
-     	{
-	"departmentCode":"DEPT026",
-	"departmentNameEN":"FinTech Department",
-	"departmentNameTH":"FinTech Department"
-	}
-      ]
-},
-{
-    "employeeId": "090333",
-    "fullName": "John Smith1",
-    "firstNameEn": "John",
-    "lastNameEn":"Smith1",
-     "email":"johnsmith1@gmail.com",
-     "mobilePhone":"9867543210",
-     "fax":"6543211",
-     "manager": "090332",
-     "teams":[
-     	{
-	"departmentCode":"DEPT026",
-	"departmentNameEN":"FinTech Department",
-	"departmentNameTH":"FinTech Department"
-	}
-     ]
+   "status": "1",
+   "message": "success",
+   "type":"user",
+   "list": [
+   "090332",
+   "090333"
+   ]
 }
-]
